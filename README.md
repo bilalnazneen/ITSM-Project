@@ -73,7 +73,7 @@ README documentation (this file)
 └── README.md
 
 **9. Dahsboard Preview**
-<img width="891" height="502" alt="Screenshot 2026-01-08 150732" src="https://github.com/bilalnazneen/ITSM-Project/blob/main/ITSM_dashboard.png" />
+<img width="891" height="502" alt="Screenshot 2026-01-08 150732" src="https://github.com/bilalnazneen/ITSM-Project/blob/main/ITSM_Dashboard.png" />
 
 
 s. 
